@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local secrets
+.env
+
+# PDF files
+*.pdf
+
+# Chunk files
+chunks/
+chunked pdf/
+
+# Embeddings
+embeddings/
+
+# PDF files in subdirectories
+pdfs/
