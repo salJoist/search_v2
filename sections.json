@@ -1,0 +1,83 @@
+{
+  "fuzzyThreshold": 0.6,
+  "contentMatchThreshold": 2,
+  "sections": [
+    {
+      "name": "Cover Page",
+      "keywords": ["cover page", "cover letter"]
+    },
+    {
+      "name": "Transmittal Letter",
+      "keywords": ["transmittal", "letter of transmittal"]
+    },
+    {
+      "name": "Table Of Contents",
+      "keywords": ["table of contents"]
+    },
+    {
+      "name": "Organizational Chart",
+      "keywords": ["organizational chart", "org chart", "organization chart"]
+    },
+    {
+      "name": "Project Experience",
+      "keywords": [
+        "project experience", "relevant experience", "past performance",
+        "relevant projects", "past projects", "prior work", "work history"
+      ],
+      "contentIndicators": [
+        "client:", "owner:", "completion date", "contract value",
+        "services provided", "reference:", "project cost", "budget:"
+      ]
+    },
+    {
+      "name": "Project Approach",
+      "keywords": [
+        "project approach", "technical approach", "approach",
+        "methodology", "design approach"
+      ]
+    },
+    {
+      "name": "Quality Control",
+      "keywords": ["quality control", "qa/qc", "quality assurance"]
+    },
+    {
+      "name": "Key Personnel",
+      "keywords": [
+        "key personnel", "personnel", "team members", "key staff",
+        "staff qualifications", "team qualifications", "resumes"
+      ],
+      "contentIndicators": [
+        "education", "registration", "certifications",
+        "professional registration", "years of experience",
+        "professional experience", "license"
+      ]
+    },
+    {
+      "name": "Scope Of Work",
+      "keywords": ["scope of work", "scope of services"]
+    },
+    {
+      "name": "Pricing",
+      "keywords": [
+        "pricing", "price proposal", "cost proposal",
+        "fee schedule", "fee proposal", "compensation"
+      ]
+    },
+    {
+      "name": "Schedule",
+      "keywords": ["project schedule", "schedule", "timeline", "milestones"]
+    },
+    {
+      "name": "Safety",
+      "keywords": ["safety plan", "safety program", "health and safety"]
+    },
+    {
+      "name": "Conclusion",
+      "keywords": ["conclusion", "closing statement"]
+    },
+    {
+      "name": "Introduction",
+      "keywords": ["introduction", "executive summary"]
+    }
+  ]
+}
